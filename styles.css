@@ -1,0 +1,12 @@
+body{
+    background-image: url('./f6eeab5e1e9a77b24172604a07f5e045.jpg');
+}
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+    
+}
+.img {
+    width: 300px;
+    margin-left: 100px;
+}
